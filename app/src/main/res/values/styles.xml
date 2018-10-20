@@ -8,4 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="AppTheme.AppBarOverlay" parent="android:Theme.Holo.Light.DarkActionBar" />
+1
+    <style name="AppTheme.PopupOverlay" parent="android:Theme.Light" />
+
+
+
+
+
 </resources>
